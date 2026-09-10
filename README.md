@@ -1,6 +1,5 @@
 ## 🛠️ Technologies & Tools
-
-### 💻 Languages & Web Technologies
+💻 Languages & Web Technologies
 
 python
 
@@ -8,18 +7,14 @@ html
 
 css
 
-
-
-\
-
-### 🔧 Tools & Platforms
+🔧 Tools & Platforms
 
 
 git 
 
-github\
+github
 
-### 📚 Currently Learning
+ 📚 Currently Learning
 
 * 🐍 Python
 * 🌐 Web Development
